@@ -18,6 +18,7 @@ body{
 .fondo{
     background-color: #a12353;
     margin: 100px;
+    margin-bottom: 25px;
     border: #a12353 solid 1px;
     border-radius: 5px;
     padding: 25px;
@@ -77,10 +78,8 @@ img{
 
 .boton{
     display: flex;
+    text-align: center;
     justify-content: center;
-    flex-direction: column;
-    margin-left: 425px;
-    margin-right: 425px;
 }
 
 button{
@@ -92,4 +91,20 @@ button{
     border: #009A00 1px solid;
     border-radius: 5px;
     
+    
+}
+
+footer{
+    background-color: #db5488;
+    margin: 100px;
+    margin-top: 0%;
+    margin-bottom: 50px;
+    border: #db5488 solid 1px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h5{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
