@@ -7,17 +7,19 @@ body{
     background-color: #a12353;
     color: white;
     text-align: center;
-    margin: 100px;
     border-right: solid 5px white;
     border-left: solid 5px white;
     padding-top: 15px;
     padding-bottom: 15px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .fondo{
     background-color: #a12353;
     margin: 100px;
+    margin-top: 25px;
     margin-bottom: 25px;
     border: #a12353 solid 1px;
     border-radius: 5px;
@@ -89,9 +91,7 @@ button{
     padding-top: 8px;
     padding-bottom: 8px;
     border: #009A00 1px solid;
-    border-radius: 5px;
-    
-    
+    border-radius: 5px;   
 }
 
 footer{
